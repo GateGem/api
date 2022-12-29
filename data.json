@@ -1,0 +1,6 @@
+{
+  'root':'/api',
+  'module':'module.json',
+  'theme':'theme.json',
+  'plugin':'theme.json'
+}
